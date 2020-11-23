@@ -6,7 +6,8 @@ import WelcomeScreen from "./app/screen/WelcomeScreen";
 import ListingDetailsScreen from "./app/screen/ListingDetailsScreen";
 
 import Card from "./app/components/Card";
+import MessagesScreen from "./app/screen/MessagesScreen";
 
 export default function App() {
-  return <ViewImageScreen />;
+  return <MessagesScreen />;
 }
