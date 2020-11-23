@@ -8,5 +8,5 @@ import ListingDetailsScreen from "./app/screen/ListingDetailsScreen";
 import Card from "./app/components/Card";
 
 export default function App() {
-  return <ListingDetailsScreen />;
+  return <ViewImageScreen />;
 }
