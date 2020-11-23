@@ -5,15 +5,5 @@ import ViewImageScreen from "./app/screen/ViewImageScreen";
 import WelcomeScreen from "./app/screen/WelcomeScreen";
 
 export default function App() {
-  return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <AppButton title="Login" onPress={() => console.log("Tapped")} />
-    </View>
-  );
+  return <WelcomeScreen />;
 }
