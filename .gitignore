@@ -1,0 +1,8 @@
+node_modules
+.expo
+.vscode
+.prettierrc
+.app.json
+babel.config.js
+jsconfig.json
+package-lock.json
