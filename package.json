@@ -15,12 +15,14 @@
     "@react-navigation/native": "^5.3.2",
     "@react-navigation/stack": "^5.3.5",
     "apisauce": "^2.0.0",
+    "dayjs": "^1.9.6",
     "expo": "~37.0.3",
     "expo-blur": "~8.1.0",
     "expo-constants": "^9.0.0",
     "expo-image-picker": "~8.1.0",
     "expo-location": "~8.1.0",
     "expo-permissions": "~8.1.0",
+    "expo-secure-store": "~8.1.0",
     "formik": "^2.1.4",
     "jwt-decode": "^3.1.2",
     "lottie-react-native": "~2.6.1",
@@ -36,8 +38,7 @@
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
     "react-native-web": "~0.11.7",
-    "yup": "^0.28.5",
-    "expo-secure-store": "~8.1.0"
+    "yup": "^0.28.5"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
